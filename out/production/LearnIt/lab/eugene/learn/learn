@@ -1,4 +1,40 @@
 after entering the home page create file
 lab.eugene.<filepath>.filename
 
+Java JDK 11(long term support) , Amzaon something something
 
+Versions of JDK --- LTS
+JVM -
+JDK -its create a java program .. its different in win, linux and mc ... itd has testing and debugger
+and compiler for compiling .. t houses the jre <not the case b4>
+JRE -Java Rutime envirment --->     Its used to run , it has libraries, and java lauhcer and VM
+ u cant crete codes here...
+
+ Jdk create clss file, via the JRE in the JVM --> so wen u cove codes it runs via the JRE on thers JVM
+ it takes teh code use the JRE Of that machine and create a JVM
+
+ NOte -- Java is slow cos of this,  Java program works on JV
+ C++ runs faster cos its not working on a Jv.. so the app is executed on a particualr machine it works on
+ the Virtual machine slowness is a non issue... so a game is the point the noice shows
+
+How C++ works --> it runs on the hardware ---its specific , its compilers her programs
+JDK 11,
+
+DONT STRESS CHANGE TO THIS
+*java -version
+*openjdk version "11.0.12" 2021-07-20 LTS
+*OpenJDK Runtime Environment Corretto-11.0.12.7.1 (build 11.0.12+7-LTS)
+*OpenJDK 64-Bit Server VM Corretto-11.0.12.7.1 (build 11.0.12+7-LTS, mixed mode)
+
+NOte this folder for the java file -->/usr/lib/jvm/java-11-amazon-corretto/
+
+NOTE
+1. try name ur files with no spaces
+
+Main methdods
+Its a collectin of one or more statment tahn can perform an operation
+
+SIZE OF PRIMITIVE TYPE
+a. byte rep 8bits width of 8
+b. short 16bits 16
+c.int occupy 32 bit and width og 32

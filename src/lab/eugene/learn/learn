@@ -34,3 +34,7 @@ NOTE
 Main methdods
 Its a collectin of one or more statment tahn can perform an operation
 
+SIZE OF PRIMITIVE TYPE
+a. byte rep 8bits width of 8
+b. short 16bits 16
+c.int occupy 32 bit and width og 32

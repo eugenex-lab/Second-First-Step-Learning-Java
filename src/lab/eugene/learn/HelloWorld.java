@@ -5,17 +5,38 @@ public class HelloWorld {
 /// PUblic is acces mofofoer if priavte it not easily accesible outisde the vllass
 // STATIC  to run thecode -->  a deep deper we will come bac k
         /// VOid shows that this shows that the metho does not return anything -- reminds me of fucntions in python
-      ///  () used to define a method
+        ///  () used to define a method
 /// VCode block is used to define a cblock of code ---> every code in the main claqss has at leasr one method declartion
         ///whwere we add to statment to perform an operation or task,
 
 ///PRIMITIVE TYPING
-
+//
 //public class HelloWorld {
 //    public static void main(String[] args) {
-//        String text = " Hello all the world";
-//        int myInt = 3344;
-//        short myS = 8039;
+        String text = " Hello all the world";
+        int myInt = 3000;
+        int myMinIntValue = Integer.MAX_VALUE;
+        int myMaxIntValue = Integer.MAX_VALUE;
+        System.out.println("her is the minum int " + myMinIntValue + " also her is the Max" + myMaxIntValue);
+        System.out.println("BUsted ur head past the int range witth Max Value = " + (myMaxIntValue + 1));
+        System.out.println("BUsted ur head past the int range witth MIn Value = " + (myMinIntValue - 1));
+
+        byte minByVal = Byte.MIN_VALUE;
+        byte maxByVal = Byte.MIN_VALUE;
+        System.out.println("we learnt here minimum byte value is " + minByVal + " wjile max is " + maxByVal);
+
+        short minShortVal = Short.MIN_VALUE;
+        short maxShortVal = Short.MAX_VALUE;
+        System.out.println("we learnt here minimum long value is " + minShortVal + " wjile max is " + maxShortVal);
+
+        long minlongVal = Long.MIN_VALUE;
+        long maxlongVal = Long.MAX_VALUE;
+
+        long myLngValue = 19_992_436_343_453L;
+        System.out.println("we learnt here minimum long value is " + minlongVal + " wjile max is " + maxlongVal);
+
+//THis is an overfload wen u try to put more than the variable can hold
+//        long myS = 8039;
 //        long myL = 8023433;
 //
 //        double myDec1 = 6339.3333;
@@ -38,8 +59,6 @@ public class HelloWorld {
 //        System.out.println(myBool);
 //
 //        System.out.println(myByte);
-//    }
-//}
 
 
 //        System.out.println("Hello WOrlds");
