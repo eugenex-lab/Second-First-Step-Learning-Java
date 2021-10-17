@@ -2,6 +2,13 @@ package lab.eugene.learn;
 
 public class HelloWorld {
     public static void main(String[] args) {
+/// PUblic is acces mofofoer if priavte it not easily accesible outisde the vllass
+// STATIC  to run thecode -->  a deep deper we will come bac k
+        /// VOid shows that this shows that the metho does not return anything -- reminds me of fucntions in python
+      ///  () used to define a method
+/// VCode block is used to define a cblock of code ---> every code in the main claqss has at leasr one method declartion
+        ///whwere we add to statment to perform an operation or task,
+
 ///PRIMITIVE TYPING
 
 //public class HelloWorld {
@@ -44,12 +51,25 @@ public class HelloWorld {
 //        String blank = " ";
 //        String player  = "Abel";
 //        int age = 60;
+////
+//        System.out.println("Do you know that" + blank + player + " is " + age + " year OLd");
+/// anything in " " is string literal
+        ///WHILE LOOOPSSSSSS
 //
-//        System.out.println("Do you know that" + blank + player + "is" + age + " year OLd");
+//
+//        int lume = (5 *60 +33 ) + (7*6);
+//        System.out.println( lume);
 
-    ///WHILE LOOOPSSSSSS
+//    double venv = 12;
+//    int rThirdNo = 6;
+//    double r3rdNo =  venv + rThirdNo;
+//    int lastNO = 5 ;
+//        System.out.println(venv + venv - 70);
+//        System.out.println(r3rdNo);
+//        System.out.println(lastNO<r3rdNo);
+//        System.out.println( 1000- r3rdNo);
 
-    //Test Case1
+        //Test Case1
 
 //        Boolean loop = 6 > 3;
 //        System.out.println(loop);
@@ -57,7 +77,7 @@ public class HelloWorld {
 //        Boolean loopz = 500 > 3;
 //        System.out.println(loopz);
 
-    ///Test Case2
+        ///Test Case2
 //        double valueLoop = 600 ;
 //        boolean looping = valueLoop > 9000;
 //        System.out.println(looping);
@@ -72,18 +92,14 @@ public class HelloWorld {
 //            ///NOte it never stop printing Arsnal is shit cos theyreally are shiit
 //        }
 
-        int oleUnitedPoint = 50;
-
-        while(oleUnitedPoint < 80)
-        {
-            System.out.println(" Ole is a PE Coach" + "current points are at" + oleUnitedPoint);
-            oleUnitedPoint = oleUnitedPoint + 3 ;
-            ///NOte it never stop printing Arsnal is shit cos theyreally are shiit
-        }
-
-
+//        int oleUnitedPoint = 50;
+//
+//        while(oleUnitedPoint < 80)
+//        {
+//            System.out.println(" Ole is a PE Coach" + "current points are at" + oleUnitedPoint);
+//            oleUnitedPoint = oleUnitedPoint + 3 ;
+//            ///NOte it never stop printing Arsnal is shit cos theyreally are shiit
 
     }
+
 }
-
-
